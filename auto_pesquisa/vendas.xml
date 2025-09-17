@@ -1,0 +1,125 @@
+<Vendas>
+    <Produto>
+        <Nome>Teclado Mecânico</Nome>
+        <Quantidade>3</Quantidade>
+        <ValorVendido>450.00</ValorVendido>
+        <DataVenda>2025-01-05</DataVenda>
+    </Produto>
+    <Produto>
+        <Nome>Mouse Gamer</Nome>
+        <Quantidade>2</Quantidade>
+        <ValorVendido>160.00</ValorVendido>
+        <DataVenda>2025-01-12</DataVenda>
+    </Produto>
+    <Produto>
+        <Nome>Monitor 24"</Nome>
+        <Quantidade>1</Quantidade>
+        <ValorVendido>890.00</ValorVendido>
+        <DataVenda>2025-01-19</DataVenda>
+    </Produto>
+    <Produto>
+        <Nome>Cadeira Ergonômica</Nome>
+        <Quantidade>1</Quantidade>
+        <ValorVendido>1200.00</ValorVendido>
+        <DataVenda>2025-01-21</DataVenda>
+    </Produto>
+    <Produto>
+        <Nome>Headset Bluetooth</Nome>
+        <Quantidade>4</Quantidade>
+        <ValorVendido>640.00</ValorVendido>
+        <DataVenda>2025-01-28</DataVenda>
+    </Produto>
+
+    <Produto>
+        <Nome>Notebook Ultrafino</Nome>
+        <Quantidade>1</Quantidade>
+        <ValorVendido>4200.00</ValorVendido>
+        <DataVenda>2025-02-03</DataVenda>
+    </Produto>
+    <Produto>
+        <Nome>Smartphone X</Nome>
+        <Quantidade>2</Quantidade>
+        <ValorVendido>7200.00</ValorVendido>
+        <DataVenda>2025-02-07</DataVenda>
+    </Produto>
+    <Produto>
+        <Nome>Impressora Multifuncional</Nome>
+        <Quantidade>1</Quantidade>
+        <ValorVendido>980.00</ValorVendido>
+        <DataVenda>2025-02-14</DataVenda>
+    </Produto>
+    <Produto>
+        <Nome>HD Externo 2TB</Nome>
+        <Quantidade>3</Quantidade>
+        <ValorVendido>1050.00</ValorVendido>
+        <DataVenda>2025-02-20</DataVenda>
+    </Produto>
+    <Produto>
+        <Nome>Tablet Android</Nome>
+        <Quantidade>2</Quantidade>
+        <ValorVendido>1800.00</ValorVendido>
+        <DataVenda>2025-02-25</DataVenda>
+    </Produto>
+
+    <Produto>
+        <Nome>Console de Videogame</Nome>
+        <Quantidade>1</Quantidade>
+        <ValorVendido>3500.00</ValorVendido>
+        <DataVenda>2025-03-04</DataVenda>
+    </Produto>
+    <Produto>
+        <Nome>Controle Sem Fio</Nome>
+        <Quantidade>2</Quantidade>
+        <ValorVendido>600.00</ValorVendido>
+        <DataVenda>2025-03-08</DataVenda>
+    </Produto>
+    <Produto>
+        <Nome>Câmera Digital</Nome>
+        <Quantidade>1</Quantidade>
+        <ValorVendido>2800.00</ValorVendido>
+        <DataVenda>2025-03-13</DataVenda>
+    </Produto>
+    <Produto>
+        <Nome>Caixa de Som Bluetooth</Nome>
+        <Quantidade>4</Quantidade>
+        <ValorVendido>720.00</ValorVendido>
+        <DataVenda>2025-03-18</DataVenda>
+    </Produto>
+    <Produto>
+        <Nome>Microfone USB</Nome>
+        <Quantidade>2</Quantidade>
+        <ValorVendido>500.00</ValorVendido>
+        <DataVenda>2025-03-25</DataVenda>
+    </Produto>
+
+    <Produto>
+        <Nome>Smartwatch</Nome>
+        <Quantidade>3</Quantidade>
+        <ValorVendido>2100.00</ValorVendido>
+        <DataVenda>2025-04-02</DataVenda>
+    </Produto>
+    <Produto>
+        <Nome>Placa de Vídeo RTX</Nome>
+        <Quantidade>1</Quantidade>
+        <ValorVendido>4800.00</ValorVendido>
+        <DataVenda>2025-04-10</DataVenda>
+    </Produto>
+    <Produto>
+        <Nome>Fonte 750W</Nome>
+        <Quantidade>2</Quantidade>
+        <ValorVendido>900.00</ValorVendido>
+        <DataVenda>2025-04-15</DataVenda>
+    </Produto>
+    <Produto>
+        <Nome>Memória RAM 16GB</Nome>
+        <Quantidade>2</Quantidade>
+        <ValorVendido>760.00</ValorVendido>
+        <DataVenda>2025-04-20</DataVenda>
+    </Produto>
+    <Produto>
+        <Nome>SSD NVMe 1TB</Nome>
+        <Quantidade>1</Quantidade>
+        <ValorVendido>520.00</ValorVendido>
+        <DataVenda>2025-04-28</DataVenda>
+    </Produto>
+</Vendas>
